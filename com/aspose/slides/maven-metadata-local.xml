@@ -3,10 +3,10 @@
   <groupId>com.aspose</groupId>
   <artifactId>slides</artifactId>
   <versioning>
-    <release>22.11</release>
+    <release>22.11hotfix</release>
     <versions>
-      <version>22.11</version>
+      <version>22.11hotfix</version>
     </versions>
-    <lastUpdated>20221202161746</lastUpdated>
+    <lastUpdated>20221202172455</lastUpdated>
   </versioning>
 </metadata>
